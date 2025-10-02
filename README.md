@@ -10,6 +10,8 @@ This project analyzes over **500,000 consumer complaints** across financial prod
 - Company response speed and quality
 - Channel effectiveness (web, phone, referral, etc.)
 - Complaint **Severity Index** (response time + timeliness + resolution type)
+  Here File
+  https://github.com/Afsana457/consumer-financial-complaints-dashboard/blob/main/112.pbix
 
 ## ⚙️ Tools & Techniques
 - **Power BI** for visualization
