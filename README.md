@@ -23,7 +23,7 @@ This project analyzes over **500,000 consumer complaints** across financial prod
 ## 🖼️ Dashboard Preview
 [[[![Final Dashboard](https://github.com/Afsana457/consumer-financial-complaints-dashboard/blob/main/Capture.PNG)](https://github.com/Afsana457/consumer-financial-complaints-dashboard/blob/main/Capture.PNG3.PNG)
 
-
+https://github.com/Afsana457/consumer-financial-complaints-dashboard/blob/main/Capture.PNG3.PNG
 ## How to Use
 1. Clone this repo
 2. Open the `.pbix` file in Power BI Desktop
