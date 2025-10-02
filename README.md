@@ -19,7 +19,7 @@ This project analyzes over **500,000 consumer complaints** across financial prod
 
 ## Dashboard Preview
 ## 🖼️ Dashboard Preview
-[![Final Dashboard](Images/Final_Dashboard.png)](https://github.com/Afsana457/consumer-financial-complaints-dashboard/blob/main/Final%20Dashboard.PNG)
+[[![Final Dashboard](Images/Final_Dashboard.png)](https://github.com/Afsana457/consumer-financial-complaints-dashboard/blob/main/Final%20Dashboard.PNG)](https://github.com/Afsana457/consumer-financial-complaints-dashboard/blob/main/Capture.PNG)
 
 
 ## How to Use
