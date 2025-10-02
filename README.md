@@ -18,7 +18,7 @@ This project analyzes over **500,000 consumer complaints** across financial prod
 - **Python (Pandas)** for preprocessing and validation
 
 ## Dashboard Preview
-![Final Dashboard](Images/Final_Dashboard.png)
+Final Dashboard.PNG
 
 ## How to Use
 1. Clone this repo
